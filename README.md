@@ -1,0 +1,2 @@
+# proj_python_hello_world_git_python_git_a7be3e57
+Pythonを使用して「Hello World」プログラムを作成し、そのプロジェクトをGitで管理するための環境設定
